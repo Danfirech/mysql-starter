@@ -1,1 +1,1 @@
-SELECT 'Hello World'
+CREATE DATABASE talently;
